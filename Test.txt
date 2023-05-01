@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Test fr new branch and merge
 Addin commit for squashs
+=======
+Test for new branch and merge
+Addin commit for squash
+>>>>>>> 5afd0e9 (commit for squash)

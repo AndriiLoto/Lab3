@@ -1,2 +1,2 @@
-Test for new branch and merge
-Addin commit for squash
+Test fr new branch and merge
+Addin commit for squashs
